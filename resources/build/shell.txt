@@ -1,0 +1,3 @@
+e:
+cd E:\Server\htdocs\prototype\platform\resources
+node r.js -o build/index.js
